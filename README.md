@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Screenshot
 [![screenshot](./screenshot.png)]
+[![screenshot](./screendhot2.png)]
+[![screenshot](./screenshot3.png)]
 
 ## Live link
 [Crypto](https://xcryptoapp.netlify.app/)
